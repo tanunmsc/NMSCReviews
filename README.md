@@ -1,2 +1,2 @@
-# NMSCReviews
-market research &amp; analysis report - review
+# Well-Rounded BNPL Study, Easy for Teams to Use
+As someone evaluating [**BNPL**](https://www.nextmsc.com/report/buy-now-pay-later-market) partnerships, this report by Next Move Strategy Consulting gave me a clearer picture of market drivers and merchant-side benefits. Some sections felt a bit high-level, but the tables and charts were well structured. It’s a useful reference for strategy planning.
